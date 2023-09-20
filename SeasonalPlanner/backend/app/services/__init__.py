@@ -1,0 +1,1 @@
+from .openai_service import get_recommendations_from_openai
